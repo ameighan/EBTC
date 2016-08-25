@@ -1,0 +1,14 @@
+{
+  "name": "ebtc",
+  "version": "1.0.0",
+  "description": "Mobile donor interface for EBTC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amber Meighan <amber.meighan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
